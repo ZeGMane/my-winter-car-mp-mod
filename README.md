@@ -2,13 +2,19 @@
 <img width="858" height="858" alt="mwc_logo_circle_transparent_large_trans" src="https://github.com/user-attachments/assets/d6e00873-dcd0-45fa-bb9c-e11620fa22c7" />
 
 
+The project is currently a joint venture with the heavy hitter behind BeerMP The Best (MY SUMMER CAR MULTIPLAYER) to date. Given his top-tier expertise, I’ve decided to lock in with a developer who is truly legendary in the space so we can effectively shut down the bad actors behind MSCO, which has now rebranded as MWCO. Although the receipts are still being compiled, our mission is to ensure the MWC community can vibe without the threat of scams, harassment, or the distractions of documented DDoS attacks.
 
+JOIN DISCORD FOR MORE DETAILS AND PUBLIC DEMO IS ALREADY AVAILABLE
 
 OFFICIAL DISCORD
 https://discord.gg/GQeC5tCH2w
 
 ## Current Version [STATUS]
-0.1.8 - 2026-02-06
+NEWEST REPO VERSION 0.2.1 in development for public demos
+
+
+0.1.8 - 2026-02-06 
+
 
 Highlights:
 - Sorbet control sync extended to include turn signals, ignition, starter, and interior light in dashboard state payload.
